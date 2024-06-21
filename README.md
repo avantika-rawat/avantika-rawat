@@ -17,7 +17,4 @@
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=avantika-rawat&show_icons=true&locale=en&layout=compact" alt="avantika-rawat" /></p>
 
-# avnirawat 
-Avni 
-
-# student 
+ 
