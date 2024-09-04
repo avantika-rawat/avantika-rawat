@@ -3,8 +3,8 @@
 
 - 🔭 **CSE undergrad** sharing about my learnings
 - 🌱 Currently learning **Backend development**
-- 🌱Intrested in **Open Source Contributions**
-- ⚡ **video editing** is my side hustle
+- 🌱Interested in **Open Source Contributions**
+- ⚡ **Video editing** is my side hustle
 
 
 
