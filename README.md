@@ -2,7 +2,7 @@
  ### Hey, I'm Avantika Rawat
 
 - 🔭 **CSE undergrad** sharing about my learnings
-- 🌱 Currently learning **Backend development**
+- 🌱 Currently working on projects
 - 🌱Interested in **Open Source Contributions**
 - ⚡ **Video editing** is my side hustle
 
