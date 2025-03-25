@@ -1,9 +1,9 @@
 
  ### Hey, I'm Avantika Rawat
 
-- 🔭 **CSE undergrad** sharing about my learnings
-- 🌱 Currently working on projects
-- 🌱Interested in **Open Source Contributions**
+-  **CSE undergrad** sharing about my learnings
+-  Currently working on projects
+-  Interested in **Open Source Contributions**
 
 
 
