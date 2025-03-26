@@ -1,5 +1,5 @@
 
- ### Hey, I'm Avantika Rawat
+ ### Hey, I'm Avantika
 
 -  **CSE undergrad** sharing about my learnings
 -  Currently working on projects
