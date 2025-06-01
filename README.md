@@ -1,7 +1,7 @@
 
  ### Hey, I'm Avantika
 
--  **CSE undergrad** sharing about my learnings
+-  **CSE undergrad** sharing about learnings
 -  Currently working on projects
 -  Interested in **Open Source Contributions**
 
