@@ -2,7 +2,7 @@
  ### Hey, I'm Avantika
 
 -  **CSE undergrad** sharing about learnings
--  Currently looking for internships/jobs
+-  Currently exploring Artificial intelligence
 -  Interested in **Open Source Contributions**
 
 
